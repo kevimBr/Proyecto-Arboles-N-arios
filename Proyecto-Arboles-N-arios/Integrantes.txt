@@ -3,5 +3,6 @@ Proyecto: Árboles N-arios
 INTEGRANTES:
 1. Buenrostro Rodríaguez Kevin Rafael. 317052381
 2. Ledesma Rodríguez Alexa. 323156240
+3. Baruc Santiago Madrigal Ronces. 323083595
 
 ENLACE AL REPOSITORIO: https://github.com/kevimBr/Proyecto-Arboles-N-arios.git
