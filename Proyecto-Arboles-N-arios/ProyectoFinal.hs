@@ -4,8 +4,6 @@ module ProyectoFinal where
 -- 0. FUNCIONES AUXILIARES
 -- =================================================================
 
--- IMPORTANTE: Las funciones deben empezar con minuscula (ourMap, no OurMap)
-
 -- Nuestra version de 'map'
 ourMap :: (a -> b) -> [a] -> [b]
 ourMap _ [] = []
@@ -43,8 +41,6 @@ ourConcat (x:xs) = x ++ ourConcat xs
 -- =================================================================
 -- PARTE 1: IMPLEMENTACION DEL TIPO DE DATO
 -- =================================================================
-
--- Los Tipos y Constructores SI van con Mayuscula
 data NTree a = Node a [NTree a]
   deriving (Eq)
 
