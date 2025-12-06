@@ -1,10 +1,7 @@
 Proyecto: Árboles N-arios
 
-EQUIPO: [Ponle un nombre creativo si tienen, si no, déjalo en blanco]
-
 INTEGRANTES:
-1. [Tu Nombre Completo] - [Tu Número de Cuenta (Opcional pero recomendado)]
-2. [Nombre Completo Compañero 1]
-3. [Nombre Completo Compañero 2]
+1. Buenrostro Rodríaguez Kevin Rafael. 317052381
+2. Ledesma Rodríguez Alexa. 323156240
 
-ENLACE AL REPOSITORIO:
+ENLACE AL REPOSITORIO: 
